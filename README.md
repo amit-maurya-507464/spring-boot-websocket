@@ -22,7 +22,7 @@ Open terminal and locate to pom.xml file directory and type command -
 `mvn dpring-boot:run`
 
 Use the following url to test the Application:
-http://localhost:8080/swagger-ui/index.html
+http://localhost:8080
 
 ## Dependencies
 ```
