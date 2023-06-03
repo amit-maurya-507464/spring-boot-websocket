@@ -1,0 +1,75 @@
+.card-body {
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  padding: 5px;
+}
+
+.card {
+  border: none;
+  color: rgba(6, 10, 1, 0.986);
+}
+
+.card-main {
+  text-align: center;
+  color: #fff;
+  background: #206e32;
+  padding: 8px;
+  border-radius: 25px;
+}
+
+.card-chat {
+  text-align: center;
+  color: #fff;
+  padding: 8px;
+  border-radius: 25px;
+  background-color: #2b7224;
+}
+
+#userJoinForm {
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 40px;
+}
+
+.btn-primary-submit {
+  width: 100%;
+  background-color: #007bff;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #292c2f;
+  color: white;
+}
+
+.h6,
+h6 {
+  font-size: 1rem;
+  padding: 6px;
+}
+
+li.chat-message p {
+  background-color: #d2f9ec;
+  border-radius: 10px;
+  padding: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+span {
+  padding: 5px;
+}
+
+img {
+  padding: 5px;
+}
